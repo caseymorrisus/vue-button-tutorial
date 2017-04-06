@@ -2,7 +2,7 @@
 
 > Creating Reusable Vue.js Components: Button Component
 
-This article for this tutorial can be found at: <INSERT_LINK_HERE>
+This article for this tutorial can be found [here](https://medium.com/@caseymorrisus/creating-reusable-components-with-vue-js-button-component-503167facfde).
 
 ## Build Setup
 
